@@ -1,2 +1,14 @@
 # worldcup-wwwweb-pages
-HTML page archive and documentation
+
+页面文件整理目录
+
+本仓库保存页面发布过程中生成的文件，便于统一归档。
+
+## 存放说明
+
+- 页面内容写入独立 HTML 文件
+- 仓库说明保持在 README 中
+
+## 访问状态
+
+如果 Pages 暂未生效，可稍后重试或查看仓库中的 HTML 文件。
